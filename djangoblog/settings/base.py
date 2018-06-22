@@ -25,7 +25,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.environ.get('DEBUG')
 
-ALLOWED_HOSTS = ['group-django-mboladop.c9users.io']
+ALLOWED_HOSTS = ['group-django-mboladop.c9users.io', 'mboladop-group-django.herokuapp.com']
 
 
 # Application definition
